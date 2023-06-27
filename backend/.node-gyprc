@@ -1,0 +1,6 @@
+{
+  "target": "18.15.0",
+  "dist": "node-v18.15.0",
+  "cache": "/home/user/.node-gyp",
+  "fallback": "lts/fermium"
+}
